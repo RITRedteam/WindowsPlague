@@ -285,10 +285,9 @@ namespace WindowsPlague
 
         static void Main(string[] args)
         {
-            //ip = args[1];
             try
             {
-                Program p = new Program("10.1.1.1");
+                Program p = new Program(args[0]);
                 var name = Console.ReadLine();
             }
             catch (Exception ex)
