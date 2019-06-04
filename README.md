@@ -5,7 +5,7 @@
 WindowsPlague is Windows Malware built for Red-Team activities. Windows Malware monitors every new file in the system and infects it with a specific injection according to the kind of file. 
 
 
-### Futures:
+### Features:
 ----------
 * Infects every new file in the system.
 * Customized injections for each file.
