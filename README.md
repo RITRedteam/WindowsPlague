@@ -15,13 +15,13 @@ WindowsPlague is Windows Malware built for Red-Team activities.
 ### How does it work?
 ----------
 It needs a server that must have:
-| File name | Description |
-| ------ | ------ |
-| Ips1.dll | for Powershell files. |
-| Iasp.dll | for asp and aspx files. |
-| Ibat.dll | for Batch files. |
-| Iphp.dll | for PHP files. |
-| Itxt.dll  | for txt files. |
+| File name  | Description                  |
+|------------|------------------------------|
+| Ips1.dll   | for Powershell files.        |
+| Iasp.dll   | for asp and aspx files.      |
+| Ibat.dll   | for Batch files.             |
+| Iphp.dll   | for PHP files.               |
+| Itxt.dll   | for txt files.               |
 | antiu.dll  | for all prohibited keywords. |
 
 
