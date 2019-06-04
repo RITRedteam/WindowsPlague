@@ -1,4 +1,4 @@
-# PlagueWindows
+# WindowsPlague
 
 ![logo](https://raw.githubusercontent.com/M507/WindowsPlague/master/Fullp.png)
 
