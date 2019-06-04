@@ -1,1 +1,3 @@
 
+@echo on
+echo BAT is infected
